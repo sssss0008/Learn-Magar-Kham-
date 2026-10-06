@@ -1,0 +1,6 @@
+{
+  "name": "Magar Kham",
+  "description": "Comprehensive trilingual language learning app for Magar Kham Bhasa with Nepali and English translations, pronunciation, cultural heritage, and practice quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
